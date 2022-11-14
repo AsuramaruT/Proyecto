@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Esquelas</Id>
+            <Name>Esquelas</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANUj3dzYoVkyFnZERUI1G3AAAAAASAAAARQBzAHEAdQBlAGwAYQBzAAAAEGYAAAABAAAgAAAA7QQWWDqVQ9D5MBSeKpwl2lwIZhJ1DujbRqPSNn5DTFoAAAAADoAAAAACAAAgAAAAk1wNcD/1R36uIXLyV3Uk+rCU988napk/ugek882UsrgQAAAAyinB+aUp+Ofn4L+hXWjdSkAAAAAG35W608r3jJymzXuM/OMN7kcrq4BrkaXybzAI4Wmf4UyeXLlVOkJdZhoyUXkWwNE8sFfCkxkAuQhdUQQr4p+3</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Esquelas SV</Id>
+            <Name>Esquelas SV</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANUj3dzYoVkyFnZERUI1G3AAAAAAYAAAARQBzAHEAdQBlAGwAYQBzACAAUwBWAAAAEGYAAAABAAAgAAAAtQCo3DHVXUuP5ygXSYNXF000Qra/sCGP9lsdvO7lv8QAAAAADoAAAAACAAAgAAAAoQs6L7IHcIK9NQkIcMR9yvuRZlIeK4GT4sQ7DyAy7b0QAAAAmzvWXzdqMTmTyYKTT9GKjUAAAAAUv6OqY7fZpTaS0kknecwRlU8BVl19CfvOyQlyuIiheQJfZSgDQvAooMbdTwYliA4s+WHMGvIAC96s4a0hSAix</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Esquelas</Id>
+            <Name>Esquelas</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANUj3dzYoVkyFnZERUI1G3AAAAAASAAAARQBzAHEAdQBlAGwAYQBzAAAAEGYAAAABAAAgAAAAdVlf6ECm2ACZ3Niby7z5nbbU87hRSh6ysuB+LcBfg94AAAAADoAAAAACAAAgAAAAuB/9CHCLRFc7iKMe3ZDQRPGqPHm75LJfb4WjPPkk/uwgAAAAIbVZScCctI79MWIrCie9DL17+T222FF7MauhqCyan8NAAAAAWWfu5VAdSSMYhuJ/6PYDP26yquVGkCVrK79KzwO1Of4i5UdVTEjwILoE26HWgyxt0jYDgVV51EfCtQfb2JmzHA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Esquelas SV</Id>
+            <Name>Esquelas SV</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANUj3dzYoVkyFnZERUI1G3AAAAAAYAAAARQBzAHEAdQBlAGwAYQBzACAAUwBWAAAAEGYAAAABAAAgAAAAuc2znM/tjhinW/H7fwVblTi0jPubADQ1La5jl0zH8+4AAAAADoAAAAACAAAgAAAAQb1wM/MEnguuGPN+vSDkUmlbvkMgJkuOvgBCfFHUtdkgAAAA4Gm8mX2IVNmMbHUk/VGcd8X3V0r8NZspwKfjL/H/+A9AAAAAG73Ne41oGgY1vz0Qdp+oaC8qwzLe4uhvMmTeVB1UjmmZRqpyDIhFU3csukkMyQkQZp5UYxItuQBElBwEBVXCGg==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>NORAH-C-IV</TargetServer>
+        <TargetDatabase>CuboOLAP</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
